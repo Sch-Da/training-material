@@ -27,7 +27,7 @@ subtopic: ecologymetadatamgt
 ---
 
 
-In this tutorial we will use OpenRefine tool to clean occurrence records retrieved from GBIF.
+In this tutorial we will use OpenRefine tool to clean occurrence records retrieved from GBIF (Global Biodiversity Information Facility).
 
 This tutorial is based on the GBIF {% cite GBIFtraining2021 %} "Biodiversity data mobilization course" accessible on [GBIF website](https://docs.gbif.org/course-data-mobilization/en/) on Use case 1 ["Herbarium Specimens"](https://docs.gbif.org/course-data-mobilization/en/exercise-3a-c.html) using file from Exercise 3C, at the bottom of the page, reachable through this direct [URL](https://docs.gbif.org/course-data-mobilization/exercise-data/UC1-3c-open-refine.csv).
 
@@ -67,6 +67,7 @@ This tutorial is based on the GBIF {% cite GBIFtraining2021 %} "Biodiversity dat
 >        - {% icon param-repeat %} *"Insert Check"*
 >            - *"Find Regex"*: `;`
 >            - *"Replacement"*: `\t`
+>    - click button "run tool"   
 > 4. Change the datatype from "txt" to "tabular"
 >
 >    {% snippet faqs/galaxy/datasets_change_datatype.md datatype="tabular" %}
@@ -92,6 +93,11 @@ This tutorial is based on the GBIF {% cite GBIFtraining2021 %} "Biodiversity dat
 >
 > 1. {% tool [OpenRefine tool](interactive_tool_openrefine) %} with the following parameters:
 >    - *"Input file in tabular format"*: `UC1-3c-open-refine-tabular`
+>    - click the button "run tool"
+> You will then be redirected. A notification "Interactive Tools" shows up on the left-hand side, indicating you have an interactive tool running.
+> Click on the notification, click on the empty box in front of the text saying "Openrfine".
+> Then, click on the text "Openrefine" to open the tool in a new tab.
+>
 > 2. Open the OpenRefine instance
 >    - go to "Open Project" space
 >    - select the project named "Galaxy file"
@@ -107,13 +113,13 @@ Faceting is a feature that will allow us to get a big picture overview of the da
 that we want to change or view in bulk. It facilitates the use and analysis of data and can be done with cells containing any
 kind of text, numbers and dates.
 
-> <hands-on-title> Hands-on: Faceting and mass editing </hands-on-title>
+> <hands-on-title> Faceting and mass editing </hands-on-title>
 >
 > 1. Go to column "kingdom", and then click on the column menu and follow the route to `Text facet`.
 >    - On the left a window with the name of the column will appear, that is the facet.
 >    ![OpenRefine facet kingdom](../../images/openrefine/openrefine_facet_kingdom.PNG)
 > 2. Click on count to sort by count, then click on name to sort alphabetically
-> 3. Fix the spelling mistakes (Plante -> Plantae). Place the cursor over the text in the window and click on `edit`, then fix the error in the text box, and to save click on apply.
+> 3. Fix the spelling mistakes (Plante -> Plantae). Place the cursor over the text in the window and click on `edit`, then fix the error in the text box, and to save click on `apply`.
 >    - All the values will be fixed automatically.
 >
 {: .hands_on}
@@ -130,20 +136,20 @@ kind of text, numbers and dates.
 >
 {: .question}
 
-> <hands-on-title> Hands-on: Faceting and white space 1 </hands-on-title>
+> <hands-on-title> Faceting and white space 1 </hands-on-title>
 >
 > 1. Go to "Country col." column and click on column menu and perform a `Text Facet`
 >    - On a quick view, the country appears to be spelled correctly, but the facet shows three different values due to the extra spaces at the end of the text.
-> 2. Fix the error from the column menu on "Country col." column, following the route `Edit Cells > Common transforms > Trim leading and trailing whitespace`.
+> 2. Fix the error from the column menu on "Country col." column, following the route by clicking the dropdown menu, `Edit Cells > Common transforms > Trim leading and trailing whitespace`.
 >    - You will see a notification message "Text transform on 38 cells in column Country col.: value.trim()" and the possibility to come back on previous state clicking on the `undo` hyperlink.
 > 3. Now check the facet window; only one value will remain.
 >
 {: .hands_on}
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Faceting and white space 2. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Faceting and white space 2 </hands-on-title>
 >
-> 1. Go to column "Full name" and click on then go to `Text facet`. Then click on `count`.
->    - *Guzmania lingulata* is the first item in the list with 25 specimens, but it is also present in the 4th position with 20 specimens.
+> 1. Go to column "Full name" and click on the dropdown menu, then go to `Text facet`. Then click on `count`.
+>    - *Guzmania lingulata* is the first item in the list with 25 specimens, but it is also present in the 3rd position with 20 specimens.
 > 2. Fix the error from the "Full name" column menu, `Edit Cells > Common transforms > Collapse consecutive whitespaces`.
 >
 {: .hands_on}
@@ -160,22 +166,22 @@ kind of text, numbers and dates.
 >
 {: .question}
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Faceting and duplicates. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Faceting and duplicates </hands-on-title>
 >
 > 1. Go to column catalog in "Cat. Numb", and follow the route `Facet > Customized facets > Duplicates facet`.
 >    - The facet will show 4 duplicates
 > 2. Click on true, and you'll see the values in the main window
 > 3. After a check with the specimens labels, fix the values clicking edit directly on the cell with the correct catalogue numbers
->    - UWP:122470 Vargas P
->    - UWP:122471 Vargas I
->    - UWP:157351 Betancur H
->    - UWP:157339 Betancur J
->
+>    - UWP:122470 for Vargas P
+>    - UWP:122471 for Vargas I
+>    - UWP:157351 for Betancur H
+>    - UWP:157339 for Betancur J
+>    click `apply` after you finished each edit
 {: .hands_on}
 
 # Filtering
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Basic filter. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Basic filter </hands-on-title>
 >
 > 1. Go again to "Full name" column menu and perform a `Text facet` to visualize the values
 > 2. Then go again to the column menu and click on `Text filter`
@@ -202,7 +208,7 @@ kind of text, numbers and dates.
 >
 {: .question}
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Advance filter 1. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Advance filter 1 </hands-on-title>
 >
 > 1. Go to column "genus" and perform a `Text filter`.
 > 2. Check `regular expression` and `case sensitive` , then paste the expression "^[a-z]"
@@ -231,7 +237,7 @@ kind of text, numbers and dates.
 >
 {: .question}
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Advance filter 2. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Advance filter 2 </hands-on-title>
 >
 > 1. Go to column "Full name" and perform a `Text filter`.
 > 2. Check `regular expression` and `case sensitive`, then paste the expression `^[A-Z].*\s[A-Z]`
@@ -243,7 +249,7 @@ kind of text, numbers and dates.
 
 # Clustering
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Basic clustering. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Basic clustering </hands-on-title>
 >
 > 1. Go to County and perform a `Text facet`.
 >    - Keep in mind that the correct counties are: "Flores", "La Libertad", "Melchor de Mencos", "San Andres" and "San Jose".
@@ -275,7 +281,7 @@ kind of text, numbers and dates.
 
 # Exporting
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Exporting cleaned file into your Galaxy history. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Exporting cleaned file into your Galaxy history </hands-on-title>
 >
 > 1. On the upper right corner click on `Export` and select `Galaxy exporter`.
 >    - A notification message as "Dataset has been exported to Galaxy, please close this tab" is displayed.
@@ -296,7 +302,7 @@ Reconciliation matches the information in one of your columns to an outside data
 comes to name validation, as it proves the name you have exists somewhere else. This is a really useful service, but can be
 time consuming. In this case we will go through the process with only three records using the API from GBIF.
 
-> <hands-on-title> {% icon hands_on %} Hands-on: Higher taxonomy. </hands-on-title>
+> <hands-on-title> {% icon hands_on %} Higher taxonomy </hands-on-title>
 >
 > 1. Go to "Collector" column, then make a `Text facet`. Select the collector "Elsa P".
 > 2. Under "Full name", click on column menu and then `Edit column > Add column by fetching URLs…`
