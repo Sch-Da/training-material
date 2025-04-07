@@ -67,6 +67,17 @@ CINECA-Project:
     url: https://www.cineca-project.eu
 
 
+dekcd:
+    name: de.kcd
+    github: https://github.com/deKCD
+    joined: ?
+    avatar: ?
+    url: https://datenkompetenz.cloud/
+    github: ?
+    funding_id: "?"
+    
+
+
 elixir-converge:
     name: ELIXIR-CONVERGE
     github: false
