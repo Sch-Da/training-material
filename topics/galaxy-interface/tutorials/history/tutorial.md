@@ -34,6 +34,8 @@ contributions:
   - bgruening
   - hexylena
   - ahmedhamidawan
+  reviewing:
+  - Sch-Da
   funding:
   - elixir-europe
   - deNBI
