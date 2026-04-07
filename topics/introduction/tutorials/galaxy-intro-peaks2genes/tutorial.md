@@ -57,6 +57,15 @@ recordings:
   - teresa-m
   bot-timestamp: 1762179139
 
+lang: en
+tags:
+  - deutsch
+  - español
+  - italiano
+translations:
+  - de
+  - es
+  - it
 
 ---
 

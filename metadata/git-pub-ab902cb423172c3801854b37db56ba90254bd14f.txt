@@ -1,3 +1,248 @@
+GTN_GTN:1774983836
+
+A	shared/images/MNHN-logo.jpg
+A	shared/images/SU.png
+A	shared/images/fondfrance.jpg
+GTN_GTN:1774873577
+
+A	shared/images/logos/unibalogo.png
+GTN_GTN:1774865355
+
+A	topics/data-science/tutorials/online-resources-gene/tutorial_ES.md
+A	topics/data-science/tutorials/online-resources-protein/tutorial_ES.md
+A	topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial_ES.md
+A	topics/sequence-analysis/faqs/quality_score_ES.md
+A	topics/sequence-analysis/tutorials/mapping/bam_explanation_ES.md
+A	topics/sequence-analysis/tutorials/mapping/igv_ES.md
+A	topics/sequence-analysis/tutorials/mapping/jbrowse_ES.md
+A	topics/sequence-analysis/tutorials/mapping/ref_genome_explanation_ES.md
+A	topics/sequence-analysis/tutorials/mapping/tutorial_ES.md
+A	topics/sequence-analysis/tutorials/quality-control/fastq_question_ES.md
+A	topics/sequence-analysis/tutorials/quality-control/paired_end_question_ES.md
+A	topics/sequence-analysis/tutorials/quality-control/trimming_question_ES.md
+A	topics/sequence-analysis/tutorials/quality-control/tutorial_ES.md
+A	topics/transcriptomics/tutorials/ref-based/tutorial_ES.md
+GTN_GTN:1774865308
+
+A	faqs/galaxy-it/analysis_results_may_vary.md
+A	faqs/galaxy-it/collections_build_list.md
+A	faqs/galaxy-it/collections_build_list_paired.md
+A	faqs/galaxy-it/datasets_add_tag.md
+A	faqs/galaxy-it/datasets_change_datatype.md
+A	faqs/galaxy-it/datasets_create_new_file.md
+A	faqs/galaxy-it/datasets_import_from_data_library.md
+A	faqs/galaxy-it/datasets_import_via_link.md
+A	faqs/galaxy-it/datasets_rename.md
+A	faqs/galaxy-it/features_scratchbook.md
+A	faqs/galaxy-it/histories_copy_dataset.md
+A	faqs/galaxy-it/histories_create_new.md
+A	faqs/galaxy-it/histories_rename.md
+A	faqs/galaxy-it/tools_change_version.md
+A	faqs/galaxy-it/tools_select_collection.md
+A	faqs/galaxy-it/tools_select_multiple_datasets.md
+A	faqs/galaxy-it/tools_similar.md
+A	faqs/galaxy-it/tutorial_mode.md
+A	topics/data-science/tutorials/online-resources-gene/tutorial_IT.md
+A	topics/data-science/tutorials/online-resources-protein/tutorial_IT.md
+A	topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial_IT.md
+A	topics/sequence-analysis/faqs/quality_score_IT.md
+A	topics/sequence-analysis/tutorials/mapping/bam_explanation_IT.md
+A	topics/sequence-analysis/tutorials/mapping/igv_IT.md
+A	topics/sequence-analysis/tutorials/mapping/jbrowse_IT.md
+A	topics/sequence-analysis/tutorials/mapping/ref_genome_explanation_IT.md
+A	topics/sequence-analysis/tutorials/mapping/tutorial_IT.md
+A	topics/sequence-analysis/tutorials/quality-control/fastq_question_IT.md
+A	topics/sequence-analysis/tutorials/quality-control/paired_end_question_IT.md
+A	topics/sequence-analysis/tutorials/quality-control/trimming_question_IT.md
+A	topics/sequence-analysis/tutorials/quality-control/tutorial_IT.md
+A	topics/transcriptomics/tutorials/ref-based/tutorial_IT.md
+GTN_GTN:1774862890
+
+R099	metadata/git-mod-8c638a18ae33de2a0a0945d0697f80a1018521db.txt	metadata/git-mod-2d67e3832c1fa61e9d553fcbebffd9e7de0eb13b.txt
+R099	metadata/git-pub-8c638a18ae33de2a0a0945d0697f80a1018521db.txt	metadata/git-pub-2d67e3832c1fa61e9d553fcbebffd9e7de0eb13b.txt
+GTN_GTN:1774431947
+
+A	topics/statistics/images/multimodal_learner/report_tabs.png
+A	topics/statistics/images/multimodal_learner/test_roc_auc.png
+A	topics/statistics/images/multimodal_learner/workflow.png
+A	topics/statistics/tutorials/multimodal_learner/data-library.yaml
+A	topics/statistics/tutorials/multimodal_learner/faqs/index.md
+A	topics/statistics/tutorials/multimodal_learner/slides.html
+A	topics/statistics/tutorials/multimodal_learner/tutorial.bib
+A	topics/statistics/tutorials/multimodal_learner/tutorial.md
+A	topics/statistics/tutorials/multimodal_learner/workflows/index.md
+A	topics/statistics/tutorials/multimodal_learner/workflows/main_workflow-tests.yml
+A	topics/statistics/tutorials/multimodal_learner/workflows/main_workflow.ga
+GTN_GTN:1774242463
+
+R099	metadata/git-mod-771ff843a1ddfddb44ac670ef9a23b6153288a80.txt	metadata/git-mod-8c638a18ae33de2a0a0945d0697f80a1018521db.txt
+R099	metadata/git-pub-771ff843a1ddfddb44ac670ef9a23b6153288a80.txt	metadata/git-pub-8c638a18ae33de2a0a0945d0697f80a1018521db.txt
+GTN_GTN:1773999859
+
+A	topics/introduction/images/galaxy-intro-rdm/visualise-settings.png
+A	topics/introduction/images/galaxy-intro-rdm/visualise-track.png
+GTN_GTN:1773935482
+
+A	topics/introduction/tutorials/galaxy-intro-rdm/data-library.yaml
+GTN_GTN:1773916284
+
+A	faqs/galaxy/account_single_sign_on.md
+A	faqs/galaxy/galaxy_labs.md
+A	faqs/galaxy/histories_export.md
+A	faqs/galaxy/histories_export_citations.md
+A	faqs/galaxy/images/site_base.png
+A	faqs/galaxy/images/switch-sites-options.png
+A	faqs/galaxy/images/switch-sites.png
+A	faqs/galaxy/interactive_tools_stop.md
+A	faqs/galaxy/workflows_share.md
+A	topics/introduction/images/galaxy-intro-rdm/collection-create-autobuild.png
+A	topics/introduction/images/galaxy-intro-rdm/collection-create-checked.png
+A	topics/introduction/images/galaxy-intro-rdm/collection-create-select.png
+A	topics/introduction/images/galaxy-intro-rdm/collection-files.png
+A	topics/introduction/images/galaxy-intro-rdm/collection-new.png
+A	topics/introduction/images/galaxy-intro-rdm/collection.png
+A	topics/introduction/images/galaxy-intro-rdm/compute-error-handling-expression.png
+A	topics/introduction/images/galaxy-intro-rdm/compute-error-handling.png
+A	topics/introduction/images/galaxy-intro-rdm/dataset-details.png
+A	topics/introduction/images/galaxy-intro-rdm/dataset-failed.png
+A	topics/introduction/images/galaxy-intro-rdm/dataset-renamed.png
+A	topics/introduction/images/galaxy-intro-rdm/datasets-tagged.png
+A	topics/introduction/images/galaxy-intro-rdm/eosc.png
+A	topics/introduction/images/galaxy-intro-rdm/extract-wf.png
+A	topics/introduction/images/galaxy-intro-rdm/eye-icon.png
+A	topics/introduction/images/galaxy-intro-rdm/f1000research-445534-1.pdf
+A	topics/introduction/images/galaxy-intro-rdm/file-expanded.png
+A	topics/introduction/images/galaxy-intro-rdm/file-preview.png
+A	topics/introduction/images/galaxy-intro-rdm/galaxy-bugreport.png
+A	topics/introduction/images/galaxy-intro-rdm/gtn-wf-link.png
+A	topics/introduction/images/galaxy-intro-rdm/gtn-workflow.png
+A	topics/introduction/images/galaxy-intro-rdm/histogram-scratchbook.png
+A	topics/introduction/images/galaxy-intro-rdm/histogram-viz.png
+A	topics/introduction/images/galaxy-intro-rdm/history-export-citations.png
+A	topics/introduction/images/galaxy-intro-rdm/history-export-destination.png
+A	topics/introduction/images/galaxy-intro-rdm/history-export-dl.png
+A	topics/introduction/images/galaxy-intro-rdm/history-export-link.png
+A	topics/introduction/images/galaxy-intro-rdm/history-export.png
+A	topics/introduction/images/galaxy-intro-rdm/history-include-deleted.png
+A	topics/introduction/images/galaxy-intro-rdm/history-multiolympics.png
+A	topics/introduction/images/galaxy-intro-rdm/iwc-try-run.png
+A	topics/introduction/images/galaxy-intro-rdm/iwc-try.png
+A	topics/introduction/images/galaxy-intro-rdm/iwc-wf-library.png
+A	topics/introduction/images/galaxy-intro-rdm/iwc-wf-out.png
+A	topics/introduction/images/galaxy-intro-rdm/job-information.png
+A	topics/introduction/images/galaxy-intro-rdm/login-sso.png
+A	topics/introduction/images/galaxy-intro-rdm/login-sso2.png
+A	topics/introduction/images/galaxy-intro-rdm/montage-all.png
+A	topics/introduction/images/galaxy-intro-rdm/montage.png
+A	topics/introduction/images/galaxy-intro-rdm/multi-history-after.png
+A	topics/introduction/images/galaxy-intro-rdm/multi-history.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-active.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-create-age-column.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-exporter.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-newcolumn.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-open.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-search.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-table.png
+A	topics/introduction/images/galaxy-intro-rdm/openrefine-tonumber.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-all.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-all.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm-analyse.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-analyse.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm-collect.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-collect.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm-overview.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-overview.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm-preserve.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-preserve.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm-process.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-process.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm-reuse.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-reuse.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm-share.png
+A	topics/introduction/images/galaxy-intro-rdm/rdm-share.svg
+A	topics/introduction/images/galaxy-intro-rdm/rdm.svg
+A	topics/introduction/images/galaxy-intro-rdm/remove-columns-output.png
+A	topics/introduction/images/galaxy-intro-rdm/rerun-tool.png
+A	topics/introduction/images/galaxy-intro-rdm/rocrate.png
+A	topics/introduction/images/galaxy-intro-rdm/tool-bug.png
+A	topics/introduction/images/galaxy-intro-rdm/tool-help.png
+A	topics/introduction/images/galaxy-intro-rdm/tool-provenance.png
+A	topics/introduction/images/galaxy-intro-rdm/upload-from-repositories.png
+A	topics/introduction/images/galaxy-intro-rdm/visualisation-boxplot-labels.png
+A	topics/introduction/images/galaxy-intro-rdm/visualisations-list.png
+A	topics/introduction/images/galaxy-intro-rdm/visualisations-saved.png
+A	topics/introduction/images/galaxy-intro-rdm/visualise-button.png
+A	topics/introduction/images/galaxy-intro-rdm/visualise-options.png
+A	topics/introduction/images/galaxy-intro-rdm/viz-save.png
+A	topics/introduction/images/galaxy-intro-rdm/voronoi-example.png
+A	topics/introduction/images/galaxy-intro-rdm/voronoi-invocation.png
+A	topics/introduction/images/galaxy-intro-rdm/voronoi-output.png
+A	topics/introduction/images/galaxy-intro-rdm/voronoi-wf.png
+A	topics/introduction/images/galaxy-intro-rdm/wfh-download.png
+A	topics/introduction/images/galaxy-intro-rdm/wfh-files.png
+A	topics/introduction/images/galaxy-intro-rdm/wfh-imported.png
+A	topics/introduction/images/galaxy-intro-rdm/wfh-imported2.png
+A	topics/introduction/images/galaxy-intro-rdm/wfh-rungalaxy.png
+A	topics/introduction/images/galaxy-intro-rdm/wfh-search-results.png
+A	topics/introduction/images/galaxy-intro-rdm/wfh.png
+A	topics/introduction/images/galaxy-intro-rdm/workflow-editor-parameter.png
+A	topics/introduction/images/galaxy-intro-rdm/workflow-editor.png
+A	topics/introduction/images/galaxy-intro-rdm/workflow-extract.png
+A	topics/introduction/images/galaxy-intro-rdm/workflow-invocation.png
+A	topics/introduction/images/galaxy-intro-rdm/workflow-run.png
+A	topics/introduction/images/galaxy-intro-rdm/workflows.png
+A	topics/introduction/images/galaxy-intro-rdm/zenodo-repo-import.png
+A	topics/introduction/images/galaxy-intro-rdm/zenodo-search.png
+A	topics/introduction/tutorials/galaxy-intro-rdm/faqs/index.md
+A	topics/introduction/tutorials/galaxy-intro-rdm/tutorial.md
+A	topics/introduction/tutorials/galaxy-intro-rdm/workflows/Olympic-Age-Distribution-tests.yml
+A	topics/introduction/tutorials/galaxy-intro-rdm/workflows/Olympic-Age-Distribution.ga
+A	topics/introduction/tutorials/galaxy-intro-rdm/workflows/index.md
+GTN_GTN:1773677708
+
+A	redirects/hof-sfb992.md
+GTN_GTN:1773676986
+
+R099	metadata/git-mod-046ccffbbe627f9f451b032c519d757de8bba6a8.txt	metadata/git-mod-771ff843a1ddfddb44ac670ef9a23b6153288a80.txt
+R099	metadata/git-pub-046ccffbbe627f9f451b032c519d757de8bba6a8.txt	metadata/git-pub-771ff843a1ddfddb44ac670ef9a23b6153288a80.txt
+GTN_GTN:1773065944
+
+A	faqs/galaxy-de/analysis_results_may_vary.md
+A	faqs/galaxy-de/collections_build_list.md
+A	faqs/galaxy-de/collections_build_list_paired.md
+A	faqs/galaxy-de/datasets_add_tag.md
+A	faqs/galaxy-de/datasets_change_datatype.md
+A	faqs/galaxy-de/datasets_create_new_file.md
+A	faqs/galaxy-de/datasets_import_from_data_library.md
+A	faqs/galaxy-de/datasets_import_via_link.md
+A	faqs/galaxy-de/datasets_rename.md
+A	faqs/galaxy-de/features_scratchbook.md
+A	faqs/galaxy-de/histories_copy_dataset.md
+A	faqs/galaxy-de/histories_create_new.md
+A	faqs/galaxy-de/histories_rename.md
+A	faqs/galaxy-de/tools_change_version.md
+A	faqs/galaxy-de/tools_select_collection.md
+A	faqs/galaxy-de/tools_select_multiple_datasets.md
+A	faqs/galaxy-de/tools_similar.md
+A	faqs/galaxy-de/tutorial_mode.md
+A	topics/data-science/tutorials/online-resources-gene/tutorial_DE.md
+A	topics/data-science/tutorials/online-resources-protein/tutorial_DE.md
+A	topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial_DE.md
+A	topics/sequence-analysis/faqs/quality_score_DE.md
+A	topics/sequence-analysis/tutorials/mapping/bam_explanation_DE.md
+A	topics/sequence-analysis/tutorials/mapping/igv_DE.md
+A	topics/sequence-analysis/tutorials/mapping/jbrowse_DE.md
+A	topics/sequence-analysis/tutorials/mapping/ref_genome_explanation_DE.md
+A	topics/sequence-analysis/tutorials/mapping/tutorial_DE.md
+A	topics/sequence-analysis/tutorials/quality-control/fastq_question_DE.md
+A	topics/sequence-analysis/tutorials/quality-control/paired_end_question_DE.md
+A	topics/sequence-analysis/tutorials/quality-control/trimming_question_DE.md
+A	topics/sequence-analysis/tutorials/quality-control/tutorial_DE.md
+A	topics/transcriptomics/tutorials/ref-based/tutorial_DE.md
+GTN_GTN:1773041860
+
+R099	metadata/git-mod-ae82efbadb271a71064648d53c807a85ae2c03e0.txt	metadata/git-mod-046ccffbbe627f9f451b032c519d757de8bba6a8.txt
+R099	metadata/git-pub-ae82efbadb271a71064648d53c807a85ae2c03e0.txt	metadata/git-pub-046ccffbbe627f9f451b032c519d757de8bba6a8.txt
 GTN_GTN:1772826530
 
 A	assets/images/biofair.png

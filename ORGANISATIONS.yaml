@@ -70,7 +70,7 @@ biofair:
     github: false
     url: https://biofair.uk/
     avatar: "/training-material/assets/images/biofair.png"
-    
+
 biolytix:
     name: Biolytix AG
     url: https://www.biolytix.ch/en/
@@ -106,6 +106,7 @@ crc992:
     name: Collaborative Research Centre 992
     github: false
     url: http://www.sfb992.uni-freiburg.de/
+    avatar: https://raw.githubusercontent.com/bgruening/presentations/bce348bb606c312d531c479e63a66efc2bc38d44/shared/resources/img/MEDEP.jpg
 
 dataterra:
     name: DATA TERRA
@@ -179,7 +180,7 @@ idr:
     name: Image Data Resource
     github: false
     url: https://idr.openmicroscopy.org/
-    gtn-halloffame: "no" 
+    gtn-halloffame: "no"
 
 ifremer:
     name: IFREMER
@@ -271,12 +272,6 @@ egi:
     github: false
     ror: "052jj4m32"
     bio: "[EGI](https://www.egi.eu) offers a federation and management platform that enables service providers to harmonise interfaces and connect to a common hub. The EGI Foundation team engages with research communities to understand their needs, simplify access to services, and drive innovation together."
-
-elixir-excelerate:
-    name: ELIXIR Excelerate
-    url: https://www.elixir-europe.org/excelerate/
-    avatar: "/training-material/shared/images/Excelerate_whitebackground.png"
-    github: false
 
 elixir-europe:
     name: ELIXIR Europe
@@ -460,6 +455,13 @@ minnesotauni:
     github: false
     ror: "017zqws13"
 
+mnhn:
+    short_name: MNHN
+    name: Muséum national d'Histoire naturelle
+    url: https://www.mnhn.fr/fr
+    avatar: "/training-material/shared/images/MNHN-logo.jpg"
+    github: false
+
 MPIIE:
     short_name: MPIEE
     name: Max Planck Institute of Immunology and Epigenetics
@@ -600,19 +602,18 @@ sciensano:
   github: false
   ror: "04ejags36"
 
-sfb992:
-    short_name: CRC992
-    name: Collaborative Research Centre 992
-    url: https://www.sfb992.uni-freiburg.de
-    avatar: https://raw.githubusercontent.com/bgruening/presentations/bce348bb606c312d531c479e63a66efc2bc38d44/shared/resources/img/MEDEP.jpg
-    github: false
-
 societyprotectionundergroundnetworks:
     short_name: SPUN
     name: Society for the Protection of Underground Networks
     description: "SPUN is a scientific research organization founded to map mycorrhizal fungal communities and advocate for their protection."
     url: "https://www.spun.earth"
     avatar: "/training-material/shared/images/spun-logo.png"
+
+sorbonneuniv:
+    short_name: SU
+    name: Sorbonne Université
+    url: "https://www.sorbonne-universite.fr/"
+    avatar: "/training-material/shared/images/SU.png"
 
 spoc:
     short_name: 🖖🏾SPOC
@@ -663,6 +664,12 @@ ukmrc:
     url: https://mrc.ukri.org
     avatar: https://raw.githubusercontent.com/nomadscientist/scrnaseq_training/master/logo.png
     github: false
+
+uniba:
+  name: University of Bari
+  url: https://www.uniba.it
+  avatar: /training-material/shared/images/logos/unibalogo.png
+  ror: "027ynra39"
 
 uni-freiburg:
     short_name: UFR

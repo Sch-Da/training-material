@@ -24,7 +24,7 @@ Como alternativa a cargar los datos desde una URL o desde su ordenador, los arch
 1. Entra en **Libraries** (panel izquierdo)
 2. Navega a {% if include.path %}: *{{ include.path }}* o {% endif %} la carpeta correcta indicada por su instructor. {% unless include.path %}- En la mayoría de los tutoriales de Galaxias los datos serán proporcionados en una carpeta llamada **GTN - Material --> Topic name -> Tutorial name**. {% endunless %}
 3. Seleccione los archivos deseados
-4. Haz clic en **Add to History** {% icon galaxy-dropdown %} cerca de la parte superior y selecciona **{ include.astype | default: "as Datasets" }}** en el menú desplegable
+4. Haz clic en **Add to History** {% icon galaxy-dropdown %} cerca de la parte superior y selecciona **{{ include.astype | default: "as Datasets" }}** en el menú desplegable
 5. En la ventana emergente, elige {% if include.collection_type %}
    * *"Tipo de colección "*: **{{ include.collection_type }}** {% endif %}
    * *"Seleccionar historial "*: {% if include.tohistory %}{{ include.tohistory }}{% else %}el historial al que desea importar los datos (o crear uno nuevo){% endif %}

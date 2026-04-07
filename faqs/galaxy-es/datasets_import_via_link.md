@@ -13,7 +13,7 @@ contributions:
 ---
 
 * Copia los enlaces
-* Abre el manejador de carga de datos de Galaxy ({% icon galaxy-upload %} en la parte superior derecha del panel de herramientas)
+* Abre el manejador de carga de datos de Galaxy ({% icon galaxy-upload %} (**Upload**) en la parte superior derecha del panel de herramientas)
 {% if include.reset_form %}
 * Selecciona **Reset** butón en la parte inferior del forma. Si el butón es gris, muevete a la próxima instrucción.
 {% endif %}
