@@ -62,7 +62,7 @@ workflow, the person running it supplies these values at runtime.
 ## The input data
 
 The source data are pre-calculated lists of solar eclipses for locations
-relevant to classical antiquity, covering 2500 BCE to 1000 CE available
+relevant to classical antiquity, covering 2500 BCE to 1000 CE, available
 in DaSCH's DSP repository. Files can be fetched from DSP or first
 downloaded there and uploaded from the local computer.
 
